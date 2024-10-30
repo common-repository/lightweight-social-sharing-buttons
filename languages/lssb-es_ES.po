@@ -1,0 +1,74 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Lightweight Social Sharing Buttons\n"
+"POT-Creation-Date: 2014-08-11 16:41+0100\n"
+"PO-Revision-Date: 2014-08-13 10:45+0100\n"
+"Last-Translator: jelena kovacevic <jecajeca260@gmail.com>\n"
+"Language-Team: Marcel van der Hoek <marcel@marcelvanderhoek.nl>\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.5\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPath-1: ..\n"
+
+#: ../lightweight-social-sharing-buttons.php:41
+#: ../lightweight-social-sharing-buttons.php:49
+msgid "LSSB Options"
+msgstr "Opciones LSSB"
+
+#: ../lightweight-social-sharing-buttons.php:56
+msgid "Save Changes"
+msgstr "Guardar Cambios"
+
+#: ../lightweight-social-sharing-buttons.php:77
+msgid "Main Settings"
+msgstr "Configuración Principal"
+
+#: ../lightweight-social-sharing-buttons.php:78
+msgid "Description:"
+msgstr "Descripción:"
+
+#: ../lightweight-social-sharing-buttons.php:79
+msgid "Display Twitter Button:"
+msgstr "Mostrar Botón Twitter:"
+
+#: ../lightweight-social-sharing-buttons.php:80
+msgid "Display Facebook Button:"
+msgstr "Mostrar Botón Facebook:"
+
+#: ../lightweight-social-sharing-buttons.php:81
+msgid "Display Google+ Button:"
+msgstr "Mostrar Botón Google+:"
+
+#: ../lightweight-social-sharing-buttons.php:82
+msgid "Display Pinterest Button:"
+msgstr "Mostrar Botón Pinterest:"
+
+#: ../lightweight-social-sharing-buttons.php:83
+msgid "Link Target:"
+msgstr "Destino del Enlace:"
+
+#: ../lightweight-social-sharing-buttons.php:173
+msgid "Twitter Button"
+msgstr "Botón Twitter"
+
+#: ../lightweight-social-sharing-buttons.php:174
+msgid "Google+ Button"
+msgstr "Botón Google+"
+
+#: ../lightweight-social-sharing-buttons.php:175
+msgid "Facebook Button"
+msgstr "Botón Facebook"
+
+#: ../lightweight-social-sharing-buttons.php:176
+msgid "Pinterest Button"
+msgstr "Botón Pinterest"
+
+#: ../lightweight-social-sharing-buttons.php:191
+msgid "Settings"
+msgstr "Configuración"
